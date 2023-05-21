@@ -1,0 +1,36 @@
+.mainContainer {
+  display: flex;
+  justify-items: center;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 5%;
+  margin-left: 20%;
+  width: 60%;
+  flex-direction: column;
+  border: 2px solid red;
+}
+.subContainer {
+  margin-top: 1%;
+}
+.addButton {
+  display: flex;
+  width: 10%;
+  justify-content: center;
+  justify-items: center;
+  margin-top: 1.5%;
+}
+.card-container {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  align-items: center;
+  justify-content: flex-start;
+  flex-grow: 5;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 1% 1%;
+}
+.card-component{
+  height: 220px;
+  width: 150px;
+}

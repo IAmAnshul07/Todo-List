@@ -1,0 +1,18 @@
+.cardContainer{
+    margin: 1%;
+    border-radius: 10px;
+}
+.unordered-list{
+    margin: 2%;
+    list-style: none;
+    overflow: auto;
+    max-height: 100px;
+}
+.todo-list{
+    list-style: disc;
+}
+.addTodoButton{
+    margin-top: 5%;
+    padding: 1%;
+    width: 30%;
+}
